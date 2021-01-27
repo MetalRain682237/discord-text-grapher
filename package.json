@@ -8,8 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetalRain682237/discord-text-grapher"
+    "url": "https://github.com/MetalRain682237/discord-text-grapher.git"
   },
-  "author": "MetalRain682237",
-  "license": "ISC"
+  "keywords": [
+    "discord.js",
+    "discordjs",
+    "discord",
+    "graph",
+    "text"
+  ],
+  "author": "MetalRain682237 <metalrainutube@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "opusscript": "0.0.7"
+  }
 }
